@@ -1,0 +1,16 @@
+mentions:
+  reply_to_post: "Жауап беру #{number}"
+  post_mentioned_notification: "{username} жауап берді"
+  others:
+    one: "{count} другой"
+    two: "{count} других"
+    other: "{count} других"
+  user_mentioned_notification: "{username} сізге хабарласты"
+  post_mentioned_by:
+    one: "{users} ответил на это."
+    two: "{users} ответили на это."
+    other: "{users} ответили на это."
+  you: Мен
+  reply_link: Жауап беру
+  notify_post_mentioned: Сіздің жазбаңызға жауап берді
+  notify_user_mentioned: Сіздің жазабңызға жаңа жазба қосылды

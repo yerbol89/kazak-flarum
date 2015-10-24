@@ -1,0 +1,26 @@
+{
+    "name": "kazakh",
+    "title": "Kazakh",
+    "description": "Localize Flarum and its extensions into Kazakh.",
+    "keywords": [""],
+    "version": "0.1.0",
+    "author": {
+        "name": "Yerbol Serikbay",
+        "email": "yerbol89@gmail.com",
+        "homepage": "http://szh.kz"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "https://github.com/yerbol89/flarum-kazakh",
+        "issues": "https://github.com/yerbol89/flarum-kazakh/issues"
+    },
+    "icon": {
+      "name": "globe",
+      "backgroundColor": "#3f51b5",
+      "color": "#fff"
+    }
+}

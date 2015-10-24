@@ -1,0 +1,23 @@
+tags:
+  tags: Ілмектер
+  discussion_tagged_post:
+    one: "{username} {action} ілмек."
+    two: "{username} {action} ілмектер."
+    other: "{username} {action} ілмектер."
+  added_tags: "{tags} қосылды"
+  removed_tags: "{tags} өшірілді"
+  tag_new_discussion_title: Талқылауыңызға ілмекті көрсетіңіз
+  tag_new_discussion_link: Ілмекті көрсету
+  edit_discussion_tags_title: "{title} ілмекті өңдеу"
+  edit_discussion_tags_link: Ілмекті өңдеу
+  choose_primary_tags:
+    one: Негізгі ілмекті таңдаңыз
+    two: "Негізгі {count} ілмек таңдаңыз"
+    other: "Негізгі кем дегенде {count} ілмек таңдаңыз"
+  choose_secondary_tags:
+    one: Қосымша 1 ілмек таңдаңыз
+    two: "Қосымша {count} ілмек таңдаңыз"
+    other: "Қосымша кем дегенде {count} ілмек таңдаңыз"
+  confirm: Нақтылау
+  more: Тағы да...
+  deleted: Өшірілген

@@ -1,0 +1,13 @@
+likes:
+  post_liked_notification: "{username} сіздің жазбаңыз ұнады"
+  post_likes_modal_title: Осы талқылауды ұнатқан қолданушылар
+  post_liked_by_self: "{users} ұнайды."
+  post_liked_by: "Ұнағандар: {users}."
+  unlike_action: Ұнамайды
+  like_action: Ұнайды
+  notify_post_liked: Әлде кімге ұнады
+  others:
+    one: "{count} ұнады"
+    two: "{count} ұнады"
+    other: "{count} ұнады"
+  you: Сізге

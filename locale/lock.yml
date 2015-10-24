@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} жапты"
+  discussion_locked_post: "{username} талқылауды жапты."
+  discussion_unlocked_post: "{username} талқылауды ашты."
+  notify_discussion_locked: Сіз бастаған талқылауды жауып қойды
+  locked: Жабық
+  lock: Жабу
+  unlock: Ашу

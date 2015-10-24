@@ -1,0 +1,115 @@
+core:
+  account: Аккаунт
+  activity: Белсенділік
+  administration: Администрирование
+  alert: Назар аударыңыз!
+  all_discussions: Барлық талқылау
+  before_log_in_link: Аккаунтыңыз бар ма?
+  before_sign_up_link: Аккаунтыңыз жоқ па?
+  bio_placeholder: Өзіңіз туралы қысқаша айтсаңыз
+  cannot_reply: Жауап бере алмайсыз
+  cannot_reply_help: У вас нет прав отвечать в этой дискуссии.
+  change_email: E-mail өзгерту
+  change_password: Құпия сөзді өзгерту
+  change_password_help: Нажмите кнопку ниже и проверьте ваш email. Там ссылка на страницу изменения пароля.
+  close: Жабу
+  confirm_delete_discussion: Вы действительно хотите удалить эту дискуссию?
+  confirm_discard_discussion: Вы не опубликовали дискуссию. Отменить её?
+  confirm_discard_edit: Вы не сохранили изменения. Отменить их?
+  confirm_discard_reply: Вы не опубликовали ваш ответ. Отменить его?
+  confirmation_email_sent: "Мы отправили вам письмо с подтверждением регистрации на ящик {email}. Если письма нет более 5 минут, проверьте папку спама"
+  controls: Іс-әрекет
+  delete: Өшіру
+  delete_forever: Толық өшіру
+  deleted: "[өшірілген]"
+  disclose_online: Басқалар мен online кезде көре алады
+  discussion_renamed_post: "{username} изменил запись с {old} на {new}."
+  discussion_renamed_notification: "{username} талқылау тақырыбын өзгертті"
+  discussion_replied: "Соңғы жауап {ago} бұрын {username}"
+  discussion_started: "{ago} {username} жариялады"
+  discussion_title: Тақырып
+  discussions: Талқылау
+  dismiss: Болдырмау
+  edit: Өңдеу
+  editing_post: "Запись #{number} в {discussion}"
+  email: E-mail
+  email_confirmation_required: "Вам необходимо подтвердить ваш email прежде чем авторизоваться. Проверьте ваш почтовый ящик, если письмо не пришло через более чем 5 минут, проверьте папку спама."
+  exit_full_screen: Толық беттен шығу
+  forgot_password: Құпия сөзді ұмыту
+  forgot_password_help:  Введите ваш email адрес и мы отправим вам ссылку для сброса пароля.
+  forgot_password_link: Құпия сөзді ұмыттыңыз ба?
+  full_screen: Барлық бетке
+  go_to: "{location} өту"
+  group_admin: Администратор
+  group_admins: Администраторлар
+  group_guest: Қонақ
+  group_guests: Қонақтар
+  group_member: Қолданушы
+  group_members: Қолданушылар
+  group_mod: Модератор
+  group_mods: Модераторлар
+  invalid_login: Логин немесе құпия сөз дұрыс емес
+  joined: "Жазылды {ago}"
+  joined_the_forum: Талқылауға жазылды
+  load_more: Тағы жүктеу
+  log_in: Кіру
+  log_in_to_reply: Кіру және жауап беру
+  log_out: Кіру
+  mark_all_as_read: Барлығын оқылған ету
+  mark_as_read: Оқылған етіп белгілеу
+  minimize: Орап қою
+  no_notifications: Хатарлама жоқ
+  notifications: Хабарлама
+  notify_discussion_renamed: Сіз жариялаған жазбаны өңдеді
+  now: Қазір
+  online: Online
+  original_post: Алғашқы жазба
+  password: Құпия сөз
+  password_reset_email_sent:  Мы отправили вам письмо, содержащее ссылку на страницу сброса пароля. Проверьте папку спам, если оно не пришло в течении 5 минут
+  period_later: "{period} кейін"
+  post_discussion: Талқылауды жариялау
+  post_edited: "{ago} {username} өңдеді"
+  post_number: "Хатарлама #{number}"
+  post_reply: Жауап беру
+  posted_a_reply: Жауап беру
+  posts: Жазба
+  powered_by_flarum: Создано на основе Flarum
+  privacy: Құпиялық
+  profile: Профайл
+  prompt_rename_discussion: Введите новый заголовок для этой дискуссии:
+  recover_password: Құпия сөзді қалпына келтіру
+  refresh: Жаңарту
+  remove: Өшіру
+  rename: Өзгерту
+  reply: Жауап беру
+  reply_posted: Сіздің жазбаңз жарияланды.
+  restore: Қалпына келтіру
+  save_changes: Өзгертулерді сақтау
+  search_all_discussions: 'Сайттан іздеу: "{query}"'
+  search_forum: Сайттан іздеу
+  send_password_reset_email: Отправить ссылку сброса пароля
+  settings: Настройки
+  sign_up: Тіркелу
+  sort_latest: Соңғылары
+  sort_newest: Жаңа
+  sort_oldest: Ескі
+  sort_relevance: Ең қызықтары
+  sort_top: Өзектілері
+  start_a_discussion: Жаңа талқылау
+  started_a_discussion: Талқылауды бастадыңыз
+  unread_posts:
+    one: "{count} оқылмаған хабарлама"
+    two: "{count} оқылмаған хабарлама"
+    other: "{count} оқылмаған хабарлама"
+  upload: Жүктеу
+  username: Қолданушы аты
+  username_or_email: Қолданушы аты немесе e-mail
+  users: Қолданушылар
+  view: Қаралым
+  viewing_posts:
+    one: "{index} из {count} записи"
+    two: "{index} из {count} записей"
+    other: "{index} из {count} записей"
+  welcome_user: "Қош келдіңіз, {username} !"
+  write_a_post: Жазба жазу...
+  write_a_reply: Жауап беру...

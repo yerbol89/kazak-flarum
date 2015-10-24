@@ -1,0 +1,13 @@
+subscriptions:
+  following: Таңдаулы
+  ignoring: Алып тастау
+  follow: Таңдаулыға
+  unfollow: Таңдаулыдан алу
+  ignore: Игнорировать
+  notify_new_post: Кто то написал в дискуссию, за которой я слежу
+  new_post_notification: "{username} ответил"
+  not_following: Бақыламау
+  not_following_description: Уведомлять только когда к вам будет обращение.
+  following_description: Уведомлять о всех ответах
+  ignoring_description: Никогда не уведомлять. Скрыть из списка дискуссий.
+  unignore: Не игнорировать

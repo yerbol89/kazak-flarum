@@ -1,0 +1,5 @@
+pusher:
+  show_updated_discussions:
+    one: "Показать {count} обновленную дискуссию"
+    two: "Показать {count} обновленные дискуссии"
+    other: "Показать {count} обновленных дискуссий"
